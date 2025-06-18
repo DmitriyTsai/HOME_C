@@ -16,7 +16,7 @@ void sort_array(int size, int a[])
     }
 }
 
-/*int main()
+int main()
 {
     int n;
     scanf("%d", &n);
@@ -37,4 +37,4 @@ void sort_array(int size, int a[])
 
     return 0;
 }
-*/
+
